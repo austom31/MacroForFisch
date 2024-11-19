@@ -32,7 +32,7 @@ NavigationKey := "\"
 ;======    Shake Settings    =====================================================================;
 
 ; Use "Navigation" or "Click"
-ShakeMode := "Click"
+ShakeMode := "Navigation"
 WhiteBarColorTolerance := 15
 FishBarColorTolerance := 4
 
